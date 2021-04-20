@@ -29,7 +29,9 @@ Here are some ideas to get you started:
     <th><a href="https://www.instagram.com/beytullah.py/">
 <img  width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-128.png"/>
 </a></th> 
-    <th>Age</th>
+    <th><a href="https://www.beytullahtopuz.cf">
+<img  width="25px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-256.png"/>
+</a></th>
   </tr>
   </table>
 
