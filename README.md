@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/beytullah-topuz-523b7b182/">
 
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png"/>
+<img  width="250px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png"/>
 </a>
 
 <br />
