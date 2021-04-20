@@ -16,11 +16,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with internship
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/beytullah-topuz-523b7b182/">Linked IN</a>
 
-<hr>
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)
+<br>
+<br>
 
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="beytullahtopuz.cf" />][website]
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/beytullah-topuz-523b7b182]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 
   
