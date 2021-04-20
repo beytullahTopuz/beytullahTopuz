@@ -1,5 +1,6 @@
-###<div align="center"> Hi 👋 my I'm Beytullah</div>
-
+<div align="center">
+  Hi 👋 my I'm Beytullah
+</div>
 
 <hr/>
 
@@ -14,6 +15,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and javaScript
 - 🤔 I’m looking for help with internship
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/beytullah-topuz-523b7b182/">Linked IN</a>
+
+<hr>
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)
 
 
 
