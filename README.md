@@ -1,4 +1,4 @@
-<center>### Hi 👋 my I'm Beytullah</center>
+<div align="center">### Hi 👋 my I'm Beytullah</div>
 
 
 <hr/>
