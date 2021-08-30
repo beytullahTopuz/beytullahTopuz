@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on something cool 😉
-- 🔭 I’m currently studying on software engineer at university (3/4) 
+- 🔭 I’m currently studying on software engineer at university (4/4) 
 - 🤔 I’m looking for help with internship
 - 🌱 I’m currently learning Flutter and javaScript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/beytullah-topuz-523b7b182/">Linked IN</a>
